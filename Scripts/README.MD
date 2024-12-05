@@ -1,1 +1,0 @@
-********** ENTER DISCRIPTION OF THE SCRIPTS FOLDER **********
